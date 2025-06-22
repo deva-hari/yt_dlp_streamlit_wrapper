@@ -195,8 +195,8 @@ def fetch_video_title(url):
 
 
 # === Streamlit UI ===
-st.set_page_config(page_title="YT Playlist Downloader Advanced", layout="wide")
-st.title("📺 Advanced YouTube Playlist Downloader")
+st.set_page_config(page_title="YT Downloader Advanced", layout="wide")
+st.title("📺 Advanced YouTube Downloader")
 
 # Sidebar Config Panel
 st.sidebar.header("⚙️ Configuration")
