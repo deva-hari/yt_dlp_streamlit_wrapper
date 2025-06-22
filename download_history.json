@@ -1,0 +1,52 @@
+[
+  {
+    "title": "https://www.youtube.com/watch?v=xLPstaoaxmU",
+    "status": "Failed: Command '['yt-dlp', '--no-cache-dir', '-o', 'C:\\\\Users\\\\devan\\\\Desktop\\\\yt_dlp_v2\\\\%(title)s.%(ext)s",
+    "timestamp": "2025-06-22T05:19:37.633542"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=3xFmiMcNvkM",
+    "status": "Failed: Command '['yt-dlp', '--no-cache-dir', '-o', 'C:\\\\Users\\\\devan\\\\Desktop\\\\yt_dlp_v2\\\\%(title)s.%(ext)s",
+    "timestamp": "2025-06-22T05:20:06.772701"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=3xFmiMcNvkM",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:22:33.785033"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=ow2Jm00HZe8",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:26:53.991136"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=ow2Jm00HZe8",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:29:10.691993"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=ow2Jm00HZe8",
+    "status": "Failed: Command '['yt-dlp', '--no-cache-dir', '-o', 'D:\\\\Movies\\\\%(title)s.%(ext)s', '--cookies', 'cookies.t",
+    "timestamp": "2025-06-22T05:30:04.096752"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=ow2Jm00HZe8",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:31:43.751452"
+  },
+  {
+    "title": "https://www.youtube.com/watch?v=ow2Jm00HZe8",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:32:44.270199"
+  },
+  {
+    "title": "Thenmadurai Vaigai Nadhi  \u0ba4\u0bc6\u0ba9\u0bcd\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0bb5\u0bc8\u0b95\u0bc8 \u0ba8\u0ba4\u0bbf  - HD Video Song  Dharmathin Thalaivan  Rajinikanth",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:34:39.819501"
+  },
+  {
+    "title": "Thenmadurai Vaigai Nadhi  \u0ba4\u0bc6\u0ba9\u0bcd\u0bae\u0ba4\u0bc1\u0bb0\u0bc8 \u0bb5\u0bc8\u0b95\u0bc8 \u0ba8\u0ba4\u0bbf  - HD Video Song  Dharmathin Thalaivan  Rajinikanth",
+    "status": "Downloaded",
+    "timestamp": "2025-06-22T05:36:31.486089"
+  }
+]
