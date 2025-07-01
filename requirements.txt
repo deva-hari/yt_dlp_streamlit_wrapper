@@ -1,3 +1,14 @@
+#pip install
 streamlit
 yt-dlp
 pandas
+mutagen
+aria2
+ffmpeg
+
+#systeminstall
+#ffmpeg
+#mutagen
+#aria2
+#atomicparsley
+#inotify-tools
